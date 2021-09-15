@@ -19,3 +19,11 @@ Run
 > ./bin/firefox-dev.sh
 
 from the project directory to start the tests.
+
+#before run automation
+
+* Need a Database
+
+* Open Mysql & run the server
+
+* run the test
