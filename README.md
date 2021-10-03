@@ -20,4 +20,10 @@ Run
 
 from the project directory to start the tests.
 
+# before run automation
 
+> need a database
+
+> open mysql & run the server
+
+> run the test
